@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T15:54:31+00:00",
+ "generatedAt": "2026-11-19T15:58:19+00:00",
  "source": "Yahoo Finance chart API (end-of-day closes, unofficial)",
  "items": [
   {
@@ -7,20 +7,16 @@
    "code": "ASX200",
    "name": "S&P/ASX 200",
    "group": "market",
-   "lastClose": 8821.7998,
-   "lastDate": "2026-11-18",
-   "prevClose": 8883.2002,
-   "dayChangePct": -0.69,
-   "oneYearChangePct": 4.16,
-   "oneYearFrom": "2025-11-18",
+   "lastClose": 8730.4004,
+   "lastDate": "2026-11-19",
+   "prevClose": 8821.7998,
+   "dayChangePct": -1.04,
+   "oneYearChangePct": 3.34,
+   "oneYearFrom": "2025-11-19",
    "high52w": 9271.5996,
    "low52w": 8365.9004,
    "currency": "AUD",
    "history": [
-    {
-     "date": "2025-11-18",
-     "close": 8469.0996
-    },
     {
      "date": "2025-11-19",
      "close": 8447.9004
@@ -1036,6 +1032,10 @@
     {
      "date": "2026-11-18",
      "close": 8821.7998
+    },
+    {
+     "date": "2026-11-19",
+     "close": 8730.4004
     }
    ],
    "ok": true
@@ -1045,20 +1045,16 @@
    "code": "SPX",
    "name": "S&P 500 (US)",
    "group": "market",
-   "lastClose": 7308.52,
-   "lastDate": "2026-11-18",
-   "prevClose": 7340.5298,
-   "dayChangePct": -0.44,
-   "oneYearChangePct": 10.45,
-   "oneYearFrom": "2025-11-18",
+   "lastClose": 7296.7798,
+   "lastDate": "2026-11-19",
+   "prevClose": 7323.6299,
+   "dayChangePct": -0.37,
+   "oneYearChangePct": 9.86,
+   "oneYearFrom": "2025-11-19",
    "high52w": 7818.9302,
    "low52w": 6343.7202,
    "currency": "USD",
    "history": [
-    {
-     "date": "2025-11-18",
-     "close": 6617.3198
-    },
     {
      "date": "2025-11-19",
      "close": 6642.1602
@@ -2061,7 +2057,11 @@
     },
     {
      "date": "2026-11-18",
-     "close": 7308.52
+     "close": 7323.6299
+    },
+    {
+     "date": "2026-11-19",
+     "close": 7296.7798
     }
    ],
    "ok": true
@@ -2071,20 +2071,16 @@
    "code": "AUDUSD",
    "name": "AUD/USD",
    "group": "market",
-   "lastClose": 0.6717,
-   "lastDate": "2026-11-18",
-   "prevClose": 0.6737,
-   "dayChangePct": -0.3,
-   "oneYearChangePct": 3.45,
-   "oneYearFrom": "2025-11-18",
+   "lastClose": 0.6683,
+   "lastDate": "2026-11-19",
+   "prevClose": 0.674,
+   "dayChangePct": -0.85,
+   "oneYearChangePct": 2.67,
+   "oneYearFrom": "2025-11-19",
    "high52w": 0.7255,
    "low52w": 0.6449,
    "currency": "USD",
    "history": [
-    {
-     "date": "2025-11-18",
-     "close": 0.6493
-    },
     {
      "date": "2025-11-19",
      "close": 0.6509
@@ -3119,7 +3115,11 @@
     },
     {
      "date": "2026-11-18",
-     "close": 0.6717
+     "close": 0.674
+    },
+    {
+     "date": "2026-11-19",
+     "close": 0.6683
     }
    ],
    "ok": true
@@ -3130,20 +3130,16 @@
    "name": "iShares Core S&P/ASX 200",
    "group": "etf",
    "platform": "Pocket",
-   "lastClose": 35.41,
-   "lastDate": "2026-11-18",
-   "prevClose": 35.66,
-   "dayChangePct": -0.7,
-   "oneYearChangePct": 3.96,
-   "oneYearFrom": "2025-11-18",
+   "lastClose": 35.06,
+   "lastDate": "2026-11-19",
+   "prevClose": 35.41,
+   "dayChangePct": -0.99,
+   "oneYearChangePct": 3.21,
+   "oneYearFrom": "2025-11-19",
    "high52w": 37.11,
    "low52w": 33.86,
    "currency": "AUD",
    "history": [
-    {
-     "date": "2025-11-18",
-     "close": 34.06
-    },
     {
      "date": "2025-11-19",
      "close": 33.97
@@ -4159,6 +4155,10 @@
     {
      "date": "2026-11-18",
      "close": 35.41
+    },
+    {
+     "date": "2026-11-19",
+     "close": 35.06
     }
    ],
    "ok": true
@@ -4169,20 +4169,16 @@
    "name": "Betashares Diversified All Growth",
    "group": "etf",
    "platform": "Pocket",
-   "lastClose": 41.42,
-   "lastDate": "2026-11-18",
-   "prevClose": 41.78,
-   "dayChangePct": -0.86,
-   "oneYearChangePct": 5.37,
-   "oneYearFrom": "2025-11-18",
+   "lastClose": 41.44,
+   "lastDate": "2026-11-19",
+   "prevClose": 41.42,
+   "dayChangePct": 0.05,
+   "oneYearChangePct": 5.77,
+   "oneYearFrom": "2025-11-19",
    "high52w": 42.72,
    "low52w": 37.34,
    "currency": "AUD",
    "history": [
-    {
-     "date": "2025-11-18",
-     "close": 39.31
-    },
     {
      "date": "2025-11-19",
      "close": 39.18
@@ -5198,6 +5194,10 @@
     {
      "date": "2026-11-18",
      "close": 41.42
+    },
+    {
+     "date": "2026-11-19",
+     "close": 41.44
     }
    ],
    "ok": true
@@ -5208,20 +5208,16 @@
    "name": "Betashares Australia 200",
    "group": "etf",
    "platform": "CommSec",
-   "lastClose": 147.76,
-   "lastDate": "2026-11-18",
-   "prevClose": 148.77,
-   "dayChangePct": -0.68,
-   "oneYearChangePct": 4.19,
-   "oneYearFrom": "2025-11-18",
+   "lastClose": 146.27,
+   "lastDate": "2026-11-19",
+   "prevClose": 147.76,
+   "dayChangePct": -1.01,
+   "oneYearChangePct": 3.53,
+   "oneYearFrom": "2025-11-19",
    "high52w": 154.52,
    "low52w": 140.9,
    "currency": "AUD",
    "history": [
-    {
-     "date": "2025-11-18",
-     "close": 141.82
-    },
     {
      "date": "2025-11-19",
      "close": 141.28
@@ -6237,6 +6233,10 @@
     {
      "date": "2026-11-18",
      "close": 147.76
+    },
+    {
+     "date": "2026-11-19",
+     "close": 146.27
     }
    ],
    "ok": true
@@ -6247,20 +6247,16 @@
    "name": "Vanguard MSCI Intl Shares",
    "group": "etf",
    "platform": "CommSec",
-   "lastClose": 162.19,
-   "lastDate": "2026-11-18",
-   "prevClose": 163.07,
-   "dayChangePct": -0.54,
-   "oneYearChangePct": 6.35,
-   "oneYearFrom": "2025-11-18",
+   "lastClose": 163.14,
+   "lastDate": "2026-11-19",
+   "prevClose": 162.19,
+   "dayChangePct": 0.59,
+   "oneYearChangePct": 7.61,
+   "oneYearFrom": "2025-11-19",
    "high52w": 165.37,
    "low52w": 139.46,
    "currency": "AUD",
    "history": [
-    {
-     "date": "2025-11-18",
-     "close": 152.51
-    },
     {
      "date": "2025-11-19",
      "close": 151.61
@@ -7276,6 +7272,10 @@
     {
      "date": "2026-11-18",
      "close": 162.19
+    },
+    {
+     "date": "2026-11-19",
+     "close": 163.14
     }
    ],
    "ok": true
@@ -7286,20 +7286,16 @@
    "name": "Betashares Global Shares",
    "group": "etf",
    "platform": "CommSec",
-   "lastClose": 86.21,
-   "lastDate": "2026-11-18",
-   "prevClose": 86.69,
-   "dayChangePct": -0.55,
-   "oneYearChangePct": 6.72,
-   "oneYearFrom": "2025-11-18",
+   "lastClose": 86.65,
+   "lastDate": "2026-11-19",
+   "prevClose": 86.21,
+   "dayChangePct": 0.51,
+   "oneYearChangePct": 7.84,
+   "oneYearFrom": "2025-11-19",
    "high52w": 87.83,
    "low52w": 73.76,
    "currency": "AUD",
    "history": [
-    {
-     "date": "2025-11-18",
-     "close": 80.78
-    },
     {
      "date": "2025-11-19",
      "close": 80.35
@@ -8315,6 +8311,10 @@
     {
      "date": "2026-11-18",
      "close": 86.21
+    },
+    {
+     "date": "2026-11-19",
+     "close": 86.65
     }
    ],
    "ok": true
